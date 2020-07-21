@@ -1,7 +1,7 @@
 import math
 e1 = 0.0
 for n in range(0,11):
-   e1 = e1 + 1.0/math.factorial(10-n)
+    e1 = e1 + 1.0/math.factorial(10-n)
 print(e1)
 
 
